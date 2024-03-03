@@ -599,3 +599,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.03.03-19.29.33:042][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
 [2024.03.03-19.29.33:218][376]LogSavePackage: Moving '../../../../../1/UE/MyProject3/Saved/FirstPersonExampleMapAB6F4D7043629B2ACFA1F0A3236C1DCB.tmp' to '../../../../../1/UE/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2024.03.03-19.29.33:234][376]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.227
+[2024.03.03-19.30.12:201][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.30.28:734][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.30.32:255][908]Cmd: TRANSACTION UNDO
+[2024.03.03-19.30.32:255][908]LogEditorTransaction: Undo Create Actors
+[2024.03.03-19.30.34:366][132]LogActorFactory: Actor Factory created Cube
+[2024.03.03-19.30.35:293][213]LogActorFactory: Actor Factory created Cube
+[2024.03.03-19.30.48:026][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.30.54:761][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.03.03-19.30.57:823][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.04:875][676]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.05:113][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.05:210][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.18:159][214]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2024.03.03-19.31.18:941][283]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2024.03.03-19.31.20:063][398]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2024.03.03-19.31.22:217][616]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2024.03.03-19.31.22:275][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.29:904][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.31.47:717][546]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2024.03.03-19.31.49:301][721]LogEditorViewport: Clicking on Actor (context menu): TextRenderActor (TemplateLabel)
+[2024.03.03-19.31.49:348][721]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.54:297][302]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.55:552][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.55:643][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.31.55:681][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.03.03-19.31.55:863][450]LogSavePackage: Moving '../../../../../1/UE/MyProject3/Saved/FirstPersonExampleMapD7425CE948932D049A196C917AB9FAF6.tmp' to '../../../../../1/UE/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.03.03-19.31.55:879][450]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.230
