@@ -575,3 +575,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.03.03-19.19.58:980][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.03.03-19.20.29:955][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2024.03.03-19.22.17:843][903]LogSlate: Window 'Source Control Login' being destroyed
+[2024.03.03-19.24.38:093][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.25.00:812][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.26.24:544][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.03.03-19.26.25:876][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.03.03-19.26.26:712][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.26.47:668][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.26.47:757][758]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.03-19.26.47:761][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.26.47:807][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.03.03-19.26.47:995][758]LogSavePackage: Moving '../../../../../1/UE/MyProject3/Saved/FirstPersonExampleMapE718AD68470A4288B341ABAC7F9184BC.tmp' to '../../../../../1/UE/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.03.03-19.26.48:012][758]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.238
