@@ -586,3 +586,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.03.03-19.26.47:807][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2024.03.03-19.26.47:995][758]LogSavePackage: Moving '../../../../../1/UE/MyProject3/Saved/FirstPersonExampleMapE718AD68470A4288B341ABAC7F9184BC.tmp' to '../../../../../1/UE/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2024.03.03-19.26.48:012][758]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.238
+[2024.03.03-19.28.12:054][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.28.19:735][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.28.33:104][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.28.38:050][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.28.40:807][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.28.50:738][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.29.24:577][395]LogSlate: Took 0.009413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.03-19.29.31:454][203]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.29.32:910][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.29.33:003][376]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.29.33:042][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.03.03-19.29.33:218][376]LogSavePackage: Moving '../../../../../1/UE/MyProject3/Saved/FirstPersonExampleMapAB6F4D7043629B2ACFA1F0A3236C1DCB.tmp' to '../../../../../1/UE/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.03.03-19.29.33:234][376]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.227
