@@ -643,3 +643,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.03.03-19.36.41:966][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
 [2024.03.03-19.36.42:143][446]LogSavePackage: Moving '../../../../../1/UE/MyProject3/Saved/FirstPersonExampleMapF0F3D7FD40FF05751460779F5571B218.tmp' to '../../../../../1/UE/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2024.03.03-19.36.42:158][446]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.223
+[2024.03.03-19.37.19:331][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2024.03.03-19.37.38:044][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.03.03-19.37.39:036][760]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2024.03.03-19.37.41:636][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.37.42:452][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.37.42:543][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2024.03.03-19.37.42:583][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.03.03-19.37.42:771][160]LogSavePackage: Moving '../../../../../1/UE/MyProject3/Saved/FirstPersonExampleMap274CAEAC417938E152A3EEB7C32B5797.tmp' to '../../../../../1/UE/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2024.03.03-19.37.42:791][160]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.244
